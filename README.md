@@ -23,5 +23,4 @@ I'm an entry-level Software Tester with hands-on training in manual and automati
 - **[ParaBank Automation](https://github.com/sruthykrishnaK/parabank-selenium-pom-framework)** — Selenium POM framework, data-driven testing
 - **[Flipkart Performance Testing](https://github.com/sruthykrishnaK/flipkart-jmeter-performance-testing)** — JMeter baseline, load & stress testing
 
-### 📫 Reach Me
-- Portfolio: [portfolio-ipmf.vercel.app](https://portfolio-ipmf.vercel.app)
+- 📄 [My Portfolio](https://portfolio-ipmf.vercel.app) · [Resume](https://github.com/sruthykrishnaK/portfolio/blob/main/Sruthy_K_Software_Testing_Resume.pdf)
