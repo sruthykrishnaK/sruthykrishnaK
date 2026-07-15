@@ -8,7 +8,7 @@ I'm an entry-level Software Tester with hands-on training in manual and automati
 - 🏅 NACTET Software Testing Certified — Grade A+ (March 2026)
 - 🔧 Skilled in Selenium WebDriver, TestNG, Maven, Postman, JMeter, SQL, Git, JIRA
 - 🧪 Experience with manual, smoke, sanity, regression & integration testing
-- 📄 [My Portfolio](https://portfolio-ipmf.vercel.app) · [Resume](./Sruthy_K_Software_Testing_Resume.pdf)
+- 📄 [My Portfolio](https://portfolio-ipmf.vercel.app)
 - 📍 Palakkad, Kerala, India
 
 ---
@@ -17,11 +17,11 @@ I'm an entry-level Software Tester with hands-on training in manual and automati
 `Selenium WebDriver` `TestNG` `Java` `Maven` `Postman` `JMeter` `SQL` `Git` `JIRA` `Apache POI` `Extent Reports`
 
 ### 🚀 Featured Projects
-- **[BlazeDemo Automation](#)** — Selenium data-driven framework with Apache POI, Extent Reports, and cheapest-flight auto-selection logic
-- **[OrangeHRM Manual Testing](#)** — 60+ test cases, JIRA defect tracking, RTM
-- **[Myntra Automation](#)** — Selenium suite, 8 test cases, 100% pass rate, Extent Reports
-- **[ParaBank Automation](#)** — Selenium POM framework across 6 modules
-- **[Flipkart Performance Testing](#)** — JMeter baseline, load & stress testing, 200 concurrent users
+- **[BlazeDemo Automation](https://github.com/sruthykrishnaK/blazedemo-selenium-framework)** — Selenium data-driven framework with Apache POI, Extent Reports
+- **[OrangeHRM Manual Testing](https://github.com/sruthykrishnaK/orangehrm-manual-testing)** — Test case design, execution tracking
+- **[Myntra Automation](https://github.com/sruthykrishnaK/myntra-selenium-automation)** — Selenium suite, TestNG, Extent Reports
+- **[ParaBank Automation](https://github.com/sruthykrishnaK/parabank-selenium-pom-framework)** — Selenium POM framework, data-driven testing
+- **[Flipkart Performance Testing](https://github.com/sruthykrishnaK/flipkart-jmeter-performance-testing)** — JMeter baseline, load & stress testing
 
 ### 📫 Reach Me
 - Portfolio: [portfolio-ipmf.vercel.app](https://portfolio-ipmf.vercel.app)
