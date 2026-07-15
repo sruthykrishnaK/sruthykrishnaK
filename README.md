@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sruthy K 👋
 
-<!--
-**sruthykrishnaK/sruthykrishnaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Tester | QA Analyst (Fresher)** based in Kerala, India
 
-Here are some ideas to get you started:
+I'm an entry-level Software Tester with hands-on training in manual and automation testing, actively looking for opportunities to apply my skills in a real-world QA role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA graduate, certified in AI Integrated Full Stack Software Testing
+- 🏅 NACTET Software Testing Certified — Grade A+ (March 2026)
+- 🔧 Skilled in Selenium WebDriver, TestNG, Maven, Postman, JMeter, SQL, Git, JIRA
+- 🧪 Experience with manual, smoke, sanity, regression & integration testing
+- 📄 [My Portfolio](https://portfolio-ipmf.vercel.app) · [Resume](./Sruthy_K_Software_Testing_Resume.pdf)
+- 📍 Palakkad, Kerala, India
+
+---
+
+### 🧰 Tech Stack
+`Selenium WebDriver` `TestNG` `Java` `Maven` `Postman` `JMeter` `SQL` `Git` `JIRA` `Apache POI` `Extent Reports`
+
+### 🚀 Featured Projects
+- **[BlazeDemo Automation](#)** — Selenium data-driven framework with Apache POI, Extent Reports, and cheapest-flight auto-selection logic
+- **[OrangeHRM Manual Testing](#)** — 60+ test cases, JIRA defect tracking, RTM
+- **[Myntra Automation](#)** — Selenium suite, 8 test cases, 100% pass rate, Extent Reports
+- **[ParaBank Automation](#)** — Selenium POM framework across 6 modules
+- **[Flipkart Performance Testing](#)** — JMeter baseline, load & stress testing, 200 concurrent users
+
+### 📫 Reach Me
+- Portfolio: [portfolio-ipmf.vercel.app](https://portfolio-ipmf.vercel.app)
